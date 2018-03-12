@@ -53,6 +53,7 @@ var game = {
             answer: "1876",
             options: ["1864", "1876", "1890", "1912"]
         },
+  
     ],
     start: function() {
         counter = 60;
